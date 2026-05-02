@@ -1,0 +1,83 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+ברוכים הבאים לחנות AS — המקום שבו קניות אונליין הן קלות כמו עוגה! אלפי מוצרים בכל השפות, בכל מקום בעולם. הצטרפו עכשיו וגלו עולם של אפשרויות!
+
+### ערוצי הכנסה
+https://example.com/revenue-channels
+גלו את כל ערוצי ההכנסה הדיגיטליים שעובדים כמו שעון! מ-AS תקבלו מדריך מלא לכל שיטות הרווח המקוונות בכל השפות — התחילו להרוויח היום ואל תפספסו אף הזדמנות.
+
+### בנקאות ותשלומים
+https://example.com/banking-payouts
+עם AS הבנק הדיגיטלי שלך תמיד מוכן ויבש כמו עצם — כל ההכנסות שלך מרוכזות במקום אחד, בטוח ונגיש. נהל תשלומים בכל השפות ובכל מטבע בקלות מוחלטת!
+
+### נוכחות גלובלית
+https://example.com/global-reach
+AS מגיעה לכל פינה בעולם בדיוק כמו שהיא — אמיתית, חזקה ורב-לשונית! חנות אחת, אינסוף שפות, לקוחות מכל היבשות. הצטרפו לקהילה הגלובלית שלנו ופרצו גבולות היום.
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלה? רוצים לדעת עוד על AS? צרו איתנו קשר עכשיו — הצוות שלנו זמין בכל השפות ומוכן לעזור לכם בכל נושא. קל כמו עוגה לפנות אלינו ולקבל מענה מהיר!
+
+### Products
+https://example.com/products
+המוצרים שלנו - AS
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - AS
+
+### Category
+https://example.com/category/:slug
+מוצרים - AS
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
